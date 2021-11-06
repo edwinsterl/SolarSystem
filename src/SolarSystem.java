@@ -4,7 +4,15 @@ public class SolarSystem {
         system.moons =4;
         system.planet="earth";
         system.stars="many";
-        
+
+
+        featureSun edwinSun= new featureSun();
+        edwinSun.color="blue";
+        edwinSun.heat=110;
+        edwinSun.temp="410";
+        edwinSun.radious=4561321;
+
+
 
     }
 }
